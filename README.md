@@ -14,7 +14,7 @@ To record a log, open HWiNFO's Sensors window, click **Logging Start**, and save
 
 When a log opens, HWLog Studio builds an automatic dashboard from its sensors (temperatures, CPU/GPU load, clocks, power, frame rate, memory, fans).
 
-### EXAMPLE: 
+### EXAMPLE: https://nocodeedu.github.io/HWLog-Studio/HWLog-Studio.html
 
 ## Features
 
